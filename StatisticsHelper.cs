@@ -4,7 +4,7 @@ public class StatisticsHelper
 {
     public static int CalculateMax(int[] values)
     {
-        return 0; 
+        return values.Max();
     }
 
     public static int CalculateAverage(int[] values)
