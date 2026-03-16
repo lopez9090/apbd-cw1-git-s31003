@@ -6,4 +6,9 @@ public class StatisticsHelper
     {
         return 0; 
     }
+
+    public static int CalculateAverage(int[] values)
+    {
+        return 0;
+    }
 }
