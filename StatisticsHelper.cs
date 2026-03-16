@@ -11,4 +11,9 @@ public class StatisticsHelper
     {
         return 0;
     }
+    
+    public static int CalculateMin(int[] values)
+    {
+        return 0;
+    }
 }
