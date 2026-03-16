@@ -1,5 +1,5 @@
 ﻿using System;
-Console.WriteLine("Podaj jakiekolwiek liczby oddzielone spacja:");
+Console.WriteLine("Podaj DOWOLNE liczby oddzielone spacja:");
 string input = Console.ReadLine();
 
 if (string.IsNullOrWhiteSpace(input)) 
